@@ -191,7 +191,7 @@ const App: React.FC = () => {
         company_name: data.companyName,
         isin_code: data.ISINCode,
         owner: data.owner,
-        action: data.action.toLowerCase(), 
+        action: data.action.trim(),
         quantity: data.quantity,
         transaction_price: data.transactionPrice,
         brokerage: data.brokerage,
