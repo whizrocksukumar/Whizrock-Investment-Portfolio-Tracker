@@ -1,0 +1,5 @@
+{
+  "name": "Whizrock Investment Portfolio Tracker",
+  "description": "A comprehensive, step-by-step guide to building a family portfolio tracker with advanced returns analysis. This application allows users to manage stock transactions, track performance with key metrics, filter by owner and date, and even upload data via CSV.",
+  "requestFramePermissions": []
+}
